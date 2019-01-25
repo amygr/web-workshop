@@ -39,11 +39,4 @@ https://codebeautify.org/css-beautify-minify
 http://getbootstrap.com/
 https://learn.jquery.com/
 
-## Session 5 & beyond
-
-https://www.w3schools.com/tags/tag_pre.asp
-https://www.dyn-web.com/tutorials/php-js/json/filter.php
-
-https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/typeof
-
-https://getbootstrap.com/
+## Session 5 (JavaScript)
