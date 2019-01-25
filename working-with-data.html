@@ -14,12 +14,21 @@
         List of students
     </h1>
 
+    <form>
+        Name:<br>
+        <input id= "name" type="text" name="firstname"><br>
+        Score:<br>
+        <input id=" score" type="text" name="score">
+    <form">
+
+
     <ol id="dataList">
     </ol>
     <section>
         <button onclick="loadData()">Load</button>
         <button onclick="average()">Student's Score Average</button>
         <button onclick="fillTable()">Fill Table</button>
+        <button onclick="newStudent()">New Student</button>
     </section>
 
     <p id="score">
